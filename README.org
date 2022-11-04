@@ -1,6 +1,6 @@
 #+title: The Mesche Command Line Interface
 
-[More information soon.]
+NOTE: This repository has been archived because the CLI code has been moved into the [[https://github.com/mesche-lang/mesche][Mesche monorepo]].
 
 * License
 
